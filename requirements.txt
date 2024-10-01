@@ -8,8 +8,11 @@ Django==3.2.25
 django-allauth==0.50.0
 django-countries==7.6.1
 django-crispy-forms==1.14.0
+django-storages==1.14.4
+gunicorn==23.0.0
 idna==3.8
 oauthlib==3.2.2
+packaging==24.1
 pillow==10.4.0
 pycparser==2.22
 PyJWT==2.9.0
