@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-l+0*%snxe7=3eu%v!hxu^$d9rv0)2=5-=z11-pgjms(m@tykl5
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['django-boutiqueado1-d7500efe6566.herokuapp.com']
 
 
 # Application definition
